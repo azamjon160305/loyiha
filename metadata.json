@@ -1,0 +1,6 @@
+{
+  "name": "Parol Xavfsizligi Tahlilchisi Pro",
+  "description": "Kiberxavfsizlikda parollarning ishonchliligini AI yordamida tahlil qilish va baholash tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Password Analysis", "Security Auditing"]
+}
